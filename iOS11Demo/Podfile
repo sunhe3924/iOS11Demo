@@ -1,0 +1,5 @@
+platform :ios,'8.0'
+target 'iOS11Demo' do
+pod 'Masonry'
+pod 'MJRefresh'
+end
